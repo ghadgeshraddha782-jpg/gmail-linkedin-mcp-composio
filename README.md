@@ -80,11 +80,11 @@ The LinkedIn MCP tool retrieved the profile information.
 
 ### Gmail MCP
 
-![Gmail MCP](screenshots/gmail.jpg)
+![Gmail MCP](gmail.png)
 
 ### LinkedIn MCP
 
-![LinkedIn MCP](screenshots/linkedin.jpg)
+![LinkedIn MCP](linkedin.png)
 
 ## Security
 
