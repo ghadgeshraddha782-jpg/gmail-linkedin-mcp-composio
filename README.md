@@ -9,18 +9,14 @@ Cursor IDE using the Model Context Protocol (MCP) and Composio.
 The integration allows an AI agent to interact with external applications
 through MCP tools using natural-language instructions.
 
+
+
 ## Architecture
 
-User
-  ↓
-Cursor IDE
-  ↓
-Composio MCP
-  ↓
-┌───────────────┬────────────────┐
-│     Gmail     │    LinkedIn    │
-│   OAuth 2.0   │    OAuth 2.0   │
-└───────────────┴────────────────┘
+The following diagram shows the architecture of the Gmail and LinkedIn
+MCP integration using Cursor IDE and Composio.
+
+![Gmail and LinkedIn MCP Architecture](architecture.png)
 
 ## Technologies Used
 
